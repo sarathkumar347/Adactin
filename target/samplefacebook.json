@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="142.753834">
+<testcase classname="Validatuion of Facebook with Different Credentials" name="Validation of Facebook with valid Username and Password" time="88.219753">
+<system-out><![CDATA[Given user Launches the Facebook url........................................passed
+When user Enters the "ram@123" and "abc1234"................................passed
+And user clicks the login button............................................passed
+Then user validates the successfull login...................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Validatuion of Facebook with Different Credentials" name="Validation of Facebook with valid Username and Password 2" time="54.534081">
+<system-out><![CDATA[Given user Launches the Facebook url........................................passed
+When user Enters the "sarath@345" and "sara1234"............................passed
+And user clicks the login button............................................passed
+Then user validates the successfull login...................................passed
+]]></system-out>
+</testcase>
+</testsuite>
